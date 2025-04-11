@@ -28,7 +28,7 @@ A simple 3D raycasting engine inspired by classic Wolfenstein 3D-style rendering
    pip install pygame
    ```
 
-3 **Controls**
+## Controls
  Key	Action
  W	    Move forward
  S	    Move backward
@@ -36,7 +36,7 @@ A simple 3D raycasting engine inspired by classic Wolfenstein 3D-style rendering
  D	    Rotate right
  Esc	Close game
 
-4. **Customization**
+## Customization
 
 Modify the following in the code:
 
@@ -52,7 +52,7 @@ Modify the following in the code:
 
     Mini-map size: Change MAP_SCALE
 
-5. **Technical Details**
+## Technical Details
 
     Raycasting Algorithm: Digital differential analysis (DDA)
 
